@@ -1,7 +1,7 @@
 {
-  "name": "bevlbeauty",
+  "name": "tagalongbot",
   "version": "0.0.1",
-  "description": "Bevl Beauty Bot",
+  "description": "Tag Along Bot",
   "scripts": {
     "start": "node app.js"
   },
